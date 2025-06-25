@@ -334,9 +334,9 @@ This is a modern, responsive restaurant website built with HTML5, CSS3, JavaScri
 
 For questions about this project or collaboration opportunities:
 
-- **Email**: contact@portfolio.com
-- **Phone**: +1 (555) 123-4567
-- **Location**: San Francisco, CA
+- **Email**:
+- **Phone**: 
+- **Location**: 
 - **GitHub**: [Repository Link]
 - **Live Site**: [Deployment Link]
 
